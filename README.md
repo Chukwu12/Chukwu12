@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Okehcukwu Egeruoh</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
-<img align = "right" alt = "coding" width = "400" src = "https://tenor.com/view/coding-gif-24297652">
+<img align = "right" alt = "coding" width = "400"  <div class="tenor-gif-embed" data-postid="24297652" data-share-method="host" data-aspect-ratio="1.33333" data-width="100%"><a href="https://tenor.com/view/coding-gif-24297652">Coding GIF</a>from <a href="https://tenor.com/search/coding-gifs">Coding GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 <p align = "left"><img alt="../../_images/welcome-to-coding.gif" class="align-center" src="../../_images/welcome-to-coding.gif"></p>
 
