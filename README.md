@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+[![Master Head] (https://media.tenor.com/_i9AUV0dv_0AAAAS/welcome-banner.gif)](https://Chukwku12.io)
 <h1 align="center">Hi 👋, I'm Okehcukwu Egeruoh</h1>
 <h3 align="center">A passionate frontend developer from New York</h3>
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Salef-Website](mansaleafproduction.netlify.app)
 
-- 🌱 I’m currently learning **React || React Native || Java**
+- 🌱 I’m currently practicing **React || React Native || Java**
 
 - 🤝 I’m looking for help with [weather-app-react](https://github.com/Chukwu12/weather-app-react)
 
