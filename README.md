@@ -19,13 +19,11 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer from New York</h3>
 <img align="right" alt="coding" width="400" src ="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-<p align = "left"><img alt="../../_images/welcome-to-coding.gif" class="align-center" src="../../_images/welcome-to-coding.gif"></p>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwu12&label=Profile%20views&color=0e75b6&style=flat" alt="chukwu12" /> </p>
 
 - 🔭 I’m currently working on [Salef-Website](mansaleafproduction.netlify.app)
 
-- 🌱 I’m currently practicing **React || React Native || Java**
+- 🌱 I’m currently learning **React || React Native || Java**
 
 - 🤝 I’m looking for help with [weather-app-react](https://github.com/Chukwu12/weather-app-react)
 
