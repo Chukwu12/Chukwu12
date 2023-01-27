@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with [weather-app-react](https://github.com/Chukwu12/weather-app-react)
 
-- 👨‍💻 Link to my Website [https://Chukwu12.github.io/portfolio](https://Chukwu12.github.io/portfolio)
+- 👨‍💻 Link to my Website [https://https://okeyportfolio.netlify.app](https://okeyportfolio.netlify.app)
 
 - 💬 Ask me about **react, javascript**
 
