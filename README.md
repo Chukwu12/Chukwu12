@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with [weather-app-react]((https://github.com/Chukwu12/weather-app-react)
 
-- 👨‍💻 All of my projects are available at [https://https://okeyportfolio.netlify.app](https://https://okeyportfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://https://okeyportfolio.netlify.app](https://okeyportfolio.netlify.app)
 
 - 💬 Ask me about **JavaScript**
 
