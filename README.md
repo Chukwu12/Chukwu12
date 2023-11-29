@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about **react, javascript**
 
 - ⚡ Fun fact **I like to tell jokes**
-- ![Codewars](https://github.r2v.ch/codewars?user=USERNAME&stroke=COLOR)
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
