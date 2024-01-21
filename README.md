@@ -26,7 +26,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/okechukwuegeruoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okechukwuegeruoh/" height="30" width="40" /></a>
 </p>
 
-<p align="left" >
+<p align="center" >
     <a href="LINK TO: WHEN CLICKED">
       <img src="https://github.r2v.ch/codewars?user=Chukwu12" />
     </a>
