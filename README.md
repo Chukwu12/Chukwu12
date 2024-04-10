@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I like to tell jokes**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 <a href="https://dev.to/chukwu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chukwu12" height="30" width="40" /></a>
 </p>
 <a href="https://codepen.io/https://codepen.io/onice12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/onice12" height="30" width="40" /></a>
