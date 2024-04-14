@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Salonwebsite](https://amourhairstyles.netlify.app)
 
-- 🌱 I’m currently learning **Mongo DB || Node.js ||**
+- 🌱 I’m currently learning **Mongo DB || Node.js || Express **
 
 - 🤝 I’m looking for help with [weather-app-react]((https://github.com/Chukwu12/weather-app-react)
 
