@@ -18,12 +18,6 @@
 
 - ⚡ Fun fact **I like to tell jokes**
 
- <p align="left" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=Chukwu12" />
-    </a>
-</p>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
