@@ -18,18 +18,19 @@
 
 - ⚡ Fun fact **I like to tell jokes**
 
+ <p align="left" >
+    <a href="LINK TO: WHEN CLICKED">
+      <img src="https://github.r2v.ch/codewars?user=Chukwu12" />
+    </a>
+</p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/chukwu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chukwu12" height="30" width="40" /></a>
 </p>
 <a href="https://codepen.io/https://codepen.io/onice12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/onice12" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/okechukwuegeruoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okechukwuegeruoh/" height="30" width="40" /></a>
-</p>
-
-<p align="left" >
-    <a href="LINK TO: WHEN CLICKED">
-      <img src="https://github.r2v.ch/codewars?user=Chukwu12" />
-    </a>
 </p>
 
 
