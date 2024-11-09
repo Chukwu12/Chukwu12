@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwu12&label=Profile%20views&color=0e75b6&style=flat" alt="chukwu12" /> </p>
 
-- 🔭 I’m currently working on [Salonwebsite](https://amourhairstyles.netlify.app)
+- 🔭 I’m currently working on [Recipe-App](https://github.com/Chukwu12/100hours-Project.git)
 
 - 🌱 I’m currently learning **Mongo DB || Node.js || Express**
 
