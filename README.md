@@ -4,7 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwu12&label=Profile%20views&color=0e75b6&style=flat" alt="chukwu12" /> </p>
 
-- 🔭 I’m currently working on [Recipe-App](https://github.com/Chukwu12/100hours-Project.git)
+- 🔭 I’m currently working on:
+- [Recipe-App](https://github.com/Chukwu12/100hours-Project)
+- [Fitness App](https://github.com/Chukwu12/fitness-app)
+- [React SweetByB App](https://github.com/Chukwu12/React-SweetByB-app)
+- [Basketball Team (Express)](https://github.com/Chukwu12/basketball-team-express)
+
 
 - 🌱 I’m currently learning **Mongo DB || Node.js || Express**
 
