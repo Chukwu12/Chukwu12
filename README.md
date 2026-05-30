@@ -1,49 +1,95 @@
-<h1 align="center">Hi 👋, I'm Okechukwu Egeruoh</h1>
-<h3 align="center">I specialize in crafting engaging and responsive user experiences as a Software Engineer and Freelancer</h3>
-<img align="right" alt="coding" width="400" src ="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+# Hi, I'm Okechukwu Egeruoh
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chukwu12&label=Profile%20views&color=0e75b6&style=flat" alt="chukwu12" /> </p>
+Software Engineer and freelancer focused on building engaging, responsive web experiences.
 
-- 🔭 I’m currently working on:
-- [Recipe-App](https://github.com/Chukwu12/RecipeApp.git)
-- [Fitness App](https://github.com/Chukwu12/fitness-app)
-- [React SweetByB App](https://github.com/Chukwu12/React-SweetByB-app)
-- [nba-stats-app](https://github.com/Chukwu12/basketball-team-express)
+[![Profile Views](https://komarev.com/ghpvc/?username=chukwu12&label=Profile%20views&color=0e75b6&style=flat)](https://github.com/Chukwu12)
 
+## About Me
+- Building practical web apps with clean UI and solid usability.
+- Currently learning: MongoDB, Node.js, and Express.
+- Open to collaboration on frontend and full-stack projects.
+- Ask me about JavaScript.
+- Fun fact: I like to tell jokes.
 
-- 🌱 I’m currently learning **Mongo DB || Node.js || Express**
+## Best Work
+Auto-selected from your GitHub repositories using stars and recent activity.
 
-- 🤝 I’m looking for help with [weather-app-react]((https://github.com/Chukwu12/weather-app-react)
+<!-- BEST_WORK_START -->
+| Project | Stack | Links |
+|---|---|---|
+| Salonwebsite | CSS | [Repo](https://github.com/Chukwu12/Salonwebsite) · [Live](https://amourhairstyles.netlify.app) |
+| Mansaleaf-Production-Portfolio | CSS | [Repo](https://github.com/Chukwu12/Mansaleaf-Production-Portfolio) · [Live](https://mansaleafproduction.netlify.app) |
+| Coin-flip | CSS | [Repo](https://github.com/Chukwu12/Coin-flip) · [Live](https://naija-coinflip.netlify.app) |
+| RecipeApp | JavaScript | [Repo](https://github.com/Chukwu12/RecipeApp) · [Live](https://onice-recipeapp.up.railway.app) |
+| weather-app-react | JavaScript | [Repo](https://github.com/Chukwu12/weather-app-react) · [Live](https://oniceweatherapp.netlify.app/) |
+| React-SweetByB-app | JavaScript | [Repo](https://github.com/Chukwu12/React-SweetByB-app) · [Live](https://sweetsbyb.netlify.app/) |
+<!-- BEST_WORK_END -->
 
-- 👨‍💻 All of my projects are available at [https://https://okeyportfolio.netlify.app](https://okeyportfolio.netlify.app)
+## Project Achievements
+- **Salonwebsite**  
+  Problem: A salon needed an online presence to display services, pricing, and location clearly.  
+  Solution: Built a client-focused responsive website with clean sections for offerings and discovery.  
+  Result: Delivered a live business website that makes service browsing faster for potential customers.
 
-- 💬 Ask me about **JavaScript**
+- **Mansaleaf-Production-Portfolio**  
+  Problem: A content creator needed a portfolio site to present work and personal brand professionally.  
+  Solution: Created a polished portfolio experience with strong visual hierarchy and mobile responsiveness.  
+  Result: Produced a live destination that improves credibility when sharing work with potential clients.
 
-- 📫 How to reach me **oegeruoh@gmail.com**
+- **Coin-flip**  
+  Problem: Users often want a quick, fair decision tool for games and simple choices.  
+  Solution: Built a lightweight interactive app that simulates unbiased coin tosses with clear visual feedback.  
+  Result: Delivered a fun utility project that demonstrates JavaScript interactivity and responsive UI behavior.
 
-- ⚡ Fun fact **I like to tell jokes**
+- **RecipeApp**  
+  Problem: Users need quick recipe discovery without a cluttered browsing experience.  
+  Solution: Implemented a focused recipe interface with structured content and easy navigation.  
+  Result: Improved readability and user flow for exploring meal ideas and recipe details.
 
+- **weather-app-react**  
+  Problem: Weather information is often fragmented and hard to check quickly.  
+  Solution: Built a React weather app that integrates real-time API data by location.  
+  Result: Created a practical dashboard for checking current conditions with minimal friction.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/chukwu12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="chukwu12" height="30" width="40" /></a>
-<a href="https://twitter.com/https://x.com/o_egeruoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/o_egeruoh" height="30" width="40" /></a>
-</p>
-<a href="https://codepen.io/https://codepen.io/onice12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/onice12" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/okechukwuegeruoh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/okechukwuegeruoh/" height="30" width="40" /></a>
-</p>
+- **React-SweetByB-app**  
+  Problem: Product presentation needed a responsive interface that works across devices.  
+  Solution: Developed reusable React UI components and a mobile-first layout approach.  
+  Result: Delivered a smoother shopping-style experience with improved consistency across screen sizes.
 
+## Portfolio
+- Website: [okeyportfolio.netlify.app](https://okeyportfolio.netlify.app)
 
+## Refresh Best Work
+Run this command anytime to auto-refresh the Best Work table from GitHub:
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <br> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a><p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a></p>
+```bash
+./update-best-work.sh Chukwu12
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chukwu12&show_icons=true&locale=en&layout=compact" alt="chukwu12" /></p>
+## Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs)
+![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb)
+![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap)
+![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git)
+![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash)
+![AWS](https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazonwebservices)
+![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chukwu12&show_icons=true&locale=en" alt="chukwu12" /></p>
+## GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chukwu12&show_icons=true&locale=en&layout=compact)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chukwu12&" alt="chukwu12" /></p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukwu12&show_icons=true&locale=en)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chukwu12)
 
-
-
+## Connect With Me
+- Email: oegeruoh@gmail.com
+- LinkedIn: [okechukwuegeruoh](https://www.linkedin.com/in/okechukwuegeruoh/)
+- X: [@o_egeruoh](https://x.com/o_egeruoh)
+- Dev.to: [chukwu12](https://dev.to/chukwu12)
+- CodePen: [onice12](https://codepen.io/onice12)
