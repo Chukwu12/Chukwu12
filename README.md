@@ -81,9 +81,11 @@ Run this command anytime to auto-refresh the Best Work table from GitHub:
 ![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma)
 
 ## GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=chukwu12&show_icons=true&locale=en&layout=compact)
+Using summary cards to avoid intermittent outages from github-readme-stats.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chukwu12&show_icons=true&locale=en)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chukwu12&theme=github)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=chukwu12&theme=github)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chukwu12)
 
