@@ -17,7 +17,7 @@ Auto-selected from your GitHub repositories using stars and recent activity.
 <!-- BEST_WORK_START -->
 | Project | Stack | Links |
 |---|---|---|
-| Destiny-Affirmation-Cards | CSS | [Repo](https://github.com/Chukwu12/Destiny-Affirmation-Cards) · [Live](https://sweetsbyb.netlify.app/) |
+| Destiny-Affirmation-Cards | CSS | [Repo](https://github.com/Chukwu12/Destiny-Affirmation-Cards) · [Live](https://destinymccoy.netlify.app/) |
 | Mansaleaf-Production-Portfolio | CSS | [Repo](https://github.com/Chukwu12/Mansaleaf-Production-Portfolio) · [Live](https://mansaleafproduction.netlify.app) |
 | Basketball Teams | JavaScript | [Repo](https://github.com/Chukwu12/nba-stats-app) · [Live](https://basketball-team-express.onrender.com/) |
 | RecipeApp | JavaScript | [Repo](https://github.com/Chukwu12/RecipeApp) · [Live](https://onice-recipeapp.up.railway.app) |
