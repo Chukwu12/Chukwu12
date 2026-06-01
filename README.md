@@ -17,9 +17,9 @@ Auto-selected from your GitHub repositories using stars and recent activity.
 <!-- BEST_WORK_START -->
 | Project | Stack | Links |
 |---|---|---|
-| Salonwebsite | CSS | [Repo](https://github.com/Chukwu12/Salonwebsite) · [Live](https://amourhairstyles.netlify.app) |
+| Destiny-Affirmation-Cards | CSS | [Repo](https://github.com/Chukwu12/Destiny-Affirmation-Cards) · [Live](https://sweetsbyb.netlify.app/) |
 | Mansaleaf-Production-Portfolio | CSS | [Repo](https://github.com/Chukwu12/Mansaleaf-Production-Portfolio) · [Live](https://mansaleafproduction.netlify.app) |
-| Coin-flip | CSS | [Repo](https://github.com/Chukwu12/Coin-flip) · [Live](https://naija-coinflip.netlify.app) |
+| Basketball Teams | JavaScript | [Repo](https://github.com/Chukwu12/nba-stats-app) · [Live](https://basketball-team-express.onrender.com/) |
 | RecipeApp | JavaScript | [Repo](https://github.com/Chukwu12/RecipeApp) · [Live](https://onice-recipeapp.up.railway.app) |
 | weather-app-react | JavaScript | [Repo](https://github.com/Chukwu12/weather-app-react) · [Live](https://oniceweatherapp.netlify.app/) |
 | React-SweetByB-app | JavaScript | [Repo](https://github.com/Chukwu12/React-SweetByB-app) · [Live](https://sweetsbyb.netlify.app/) |
