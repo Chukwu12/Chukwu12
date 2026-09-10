@@ -23,6 +23,7 @@ Auto-selected from your GitHub repositories using stars and recent activity.
 | RecipeApp | JavaScript | [Repo](https://github.com/Chukwu12/RecipeApp) · [Live](https://onice-recipeapp.up.railway.app) |
 | weather-app-react | JavaScript | [Repo](https://github.com/Chukwu12/weather-app-react) · [Live](https://oniceweatherapp.netlify.app/) |
 | React-SweetByB-app | JavaScript | [Repo](https://github.com/Chukwu12/React-SweetByB-app) · [Live](https://sweetsbyb.netlify.app/) |
+| FitnessApp | Unknown | [Repo](https://github.com/Chukwu12/FitnessApp) |
 <!-- BEST_WORK_END -->
 
 ## Project Achievements
