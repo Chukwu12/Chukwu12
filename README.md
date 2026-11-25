@@ -23,6 +23,7 @@ Auto-selected from your GitHub repositories using stars and recent activity.
 | RecipeApp | JavaScript | [Repo](https://github.com/Chukwu12/RecipeApp) · [Live](https://onice-recipeapp.up.railway.app) |
 | weather-app-react | JavaScript | [Repo](https://github.com/Chukwu12/weather-app-react) · [Live](https://oniceweatherapp.netlify.app/) |
 | React-SweetByB-app | JavaScript | [Repo](https://github.com/Chukwu12/React-SweetByB-app) · [Live](https://sweetsbyb.netlify.app/) |
+| Job Tracker | Unknown | [Repo](https://github.com/Chukwu12/Job-Tracker) |
 | FitnessApp | Unknown | [Repo](https://github.com/Chukwu12/FitnessApp) |
 <!-- BEST_WORK_END -->
 
@@ -69,15 +70,18 @@ Run this command anytime to auto-refresh the Best Work table from GitHub:
 
 ## Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-222222?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-222222?style=for-the-badge&logo=react)
 ![Node.js](https://img.shields.io/badge/Node.js-222222?style=for-the-badge&logo=nodedotjs)
 ![Express](https://img.shields.io/badge/Express-222222?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/MongoDB-222222?style=for-the-badge&logo=mongodb)
 ![HTML5](https://img.shields.io/badge/HTML5-222222?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-222222?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-222222?style=for-the-badge&logo=sass)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=for-the-badge&logo=bootstrap)
 ![Git](https://img.shields.io/badge/Git-222222?style=for-the-badge&logo=git)
 ![Bash](https://img.shields.io/badge/Bash-222222?style=for-the-badge&logo=gnubash)
+![Python](https://img.shields.io/badge/Python-222222?style=for-the-badge&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-222222?style=for-the-badge&logo=amazonwebservices)
 ![Figma](https://img.shields.io/badge/Figma-222222?style=for-the-badge&logo=figma)
 
